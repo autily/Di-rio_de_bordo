@@ -1,2 +1,2 @@
-# Di-rio_de_bordo
+# Diario de bordo
 Diártio de Bordo
